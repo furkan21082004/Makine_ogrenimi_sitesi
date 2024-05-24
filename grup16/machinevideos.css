@@ -1,0 +1,27 @@
+body{height: 100vh;background-color: rgb(18, 17, 17);display: grid;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto auto;}
+
+
+iframe {margin-top: 30px;}
+
+h1{color:azure;margin-bottom: -50px;}
+
+
+a{text-decoration: none;padding: 12px 22px;background-color:pink ;width: 100px;height: 28px;margin-left: 190px;}
+
+
+a:hover{background-color: rgb(217, 16, 16);}
+
+.btn {
+color: white;
+background-color: transparent;
+cursor: pointer;
+display: inline-block;
+border: none;
+border-radius: 15px;}
+
+
+
+
+
